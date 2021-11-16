@@ -15,6 +15,8 @@
 
 [<img align="left" alt="blaron.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="blaron | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Blaron | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
 
 <br />
 
@@ -50,3 +52,4 @@
 
 [website]: https://blaron.com
 [instagram]: https://instagram.com/whitgraph
+[twitter]: https://twitter.com/Alejandro_BLC
