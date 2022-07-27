@@ -1,7 +1,7 @@
 ### Hi there, I'm Alejandro - aka [Blaron][website] 👋 
 
 [![Website](https://img.shields.io/website?label=blaron.com&style=for-the-badge&url=https%3A%2F%2Fblaron.com)](https://blaron.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Alejandro_BLC?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fblaron&screen_name=Alejandro_BLC)
+[![Twitter Follow](https://img.shields.io/twitter/follow/alblacal?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fblaron&screen_name=alblacal)
 
 ## I'm a Developer!!
 
@@ -52,4 +52,4 @@
 
 [website]: https://blaron.com
 [instagram]: https://instagram.com/whitgraph
-[twitter]: https://twitter.com/Alejandro_BLC
+[twitter]: https://twitter.com/alblacal
