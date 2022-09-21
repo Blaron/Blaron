@@ -5,8 +5,8 @@
 
 ## I'm a Developer!!
 
-- 🔭 I’m currently on my [website][website]!
-- 🌱 I’m currently learning NodeJS, JavaScript and Python 
+- 🔭 I’m currently on my [website][website] and cool stuff, like small games with godot engine!
+- 🌱 I’m currently learning NodeJS, JavaScript, React and Python 
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and photographie
